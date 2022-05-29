@@ -158,3 +158,75 @@ h2{
     margin-top: 220px;
     margin-left:45px;
 }
+
+.column {
+    margin-top: 140px;
+    float: left;
+    width: 46%;
+}
+
+.row:after {
+
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#kitchentext{
+    margin-left: 128px;
+}
+
+#kitchen-head{
+    margin: 0px;
+}
+
+#kitchendis{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #8d8180;
+    line-height: 24px;
+    margin-top: 47px;
+}
+
+.learnmore{
+    margin-top: 87px;
+    width: 89px;
+    padding-left:65px;
+    padding-top:12px;
+    padding-right:66px;
+    padding-bottom: 11px;
+    background: #E6A859;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+}
+
+#greatwork{
+    width: 220px;
+    margin-top:87px;
+    margin-left:0px;
+}
+
+.secondStageTxt{
+    margin-left:110px;
+}
+
+#chairdis{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #8d8180;
+    line-height: 24px;
+    margin-top: 47px;
+    width:531px;
+}
+
+#chairimg{
+    margin-top: 139px;;
+}
