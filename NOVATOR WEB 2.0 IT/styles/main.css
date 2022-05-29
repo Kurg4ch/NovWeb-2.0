@@ -1,0 +1,232 @@
+@font-face {
+    font-family: "Poppins";
+    src: local("../fonts/Poppins-Regular.ttf") format("ttf");
+}
+
+@font-face{
+    font-family: "Raleway";
+    src: local("../fonst/Ralewa-Bold.ttf") format("ttf");
+}
+
+header{
+    margin-top: 54px;
+    margin-right: 155px;
+    text-align: right;
+}
+
+#header{
+    font-family: "Raleway", bold;
+    font-size: 55px;
+    font-weight: bold;
+    color: #534847;
+    width: 642px;
+    height: 130px;
+    margin-left: 159px;
+    margin-top: 152px;
+}
+
+#building{
+    border-top-left-radius: 25px;
+    margin-top: 66px;
+    float: right;
+    width: 612px;
+    height: 773px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.first-block{
+    margin-top: 59px;
+}
+
+.description{
+    font-family: "Poppins";
+    color: #8d8180;
+    font-size: 16px;
+    width: 462px;
+    margin-left: 171px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.more{
+    margin-top:63px;
+    color: #e6a859;
+    font-family: "Poppins";
+    font-weight:400;
+    font-style: normal;
+}
+
+#circle1{
+    margin-top:105px;
+    margin-left: -64px;
+    float: left;
+}
+
+.poppins{
+    font-family: "Poppins";
+}
+
+#home{
+    margin-right: 18px;
+}
+
+#about{
+    margin-right: 16px;
+}
+
+#contact{
+    margin-right: 18px;
+}
+
+#Services{
+    margin-right: 14px;
+}
+
+#get {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    background: #e6a859;
+    color: #ffffff;
+}
+
+#button-our-projects{
+    float:right;
+    margin-top: -22px;
+    margin-right: -612px;
+    padding-left: 95px;
+    padding-right: 95px;
+    padding-top: 30px;
+    padding-bottom: 31px;
+    background-color: #ffffff;
+}
+
+#yellowPoint {
+    margin-top: 115px;
+    margin-left: 20px;
+}
+
+.secondBlock{
+    margin: 0px;
+}
+
+#circle2{
+    margin-top: -96px;
+    margin-right: 43px;
+    float: right;
+    width:103px;
+}
+
+h2{
+    margin-top: 229px;
+    font-weight: 700;
+    font-family: "Raleway", normal;
+    font-size: 40px;
+    width: 340px;
+    height: 94px;
+    margin-left: 171px;
+    color: #534847;
+}
+
+#underh{
+    margin-top: 21px;
+    margin-left: 171px;
+}
+.second{
+    float:right;
+    margin-right: 125px;
+    margin-top: -72px;
+    width: 609px;
+    height: 97px;;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #8d8180;
+    line-height: 24px;
+}
+
+#underwrite{
+    float:right;
+    margin-right: 26px;
+    margin-top: 63px;
+    color: #E4A655;
+}
+
+#bluePoints{
+    margin-top: 220px;
+    margin-left:45px;
+}
+
+.column {
+    margin-top: 140px;
+    float: left;
+    width: 46%;
+}
+
+.row:after {
+
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#kitchentext{
+    margin-left: 128px;
+}
+
+#kitchen-head{
+    margin: 0px;
+}
+
+#kitchendis{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #8d8180;
+    line-height: 24px;
+    margin-top: 47px;
+}
+
+.learnmore{
+    margin-top: 87px;
+    width: 89px;
+    padding-left:65px;
+    padding-top:12px;
+    padding-right:66px;
+    padding-bottom: 11px;
+    background: #E6A859;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+}
+
+#greatwork{
+    width: 220px;
+    margin-top:87px;
+    margin-left:0px;
+}
+
+.secondStageTxt{
+    margin-left:110px;
+}
+
+#chairdis{
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #8d8180;
+    line-height: 24px;
+    margin-top: 47px;
+    width:531px;
+}
+
+#chairimg{
+    margin-top: 139px;;
+}
