@@ -238,3 +238,38 @@ h2{
     text-align: center;
     margin-top: 261px;
 }
+
+.icon{
+  margin-left:292px;
+}
+
+.column3 {
+    margin-top: 65px;
+    float: left;
+    width: 480px;
+}
+
+h3{
+  width: 176px;
+  margin-left: 250px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  color: #534847;
+  line-height: 21px;
+  text-align: center;
+}
+
+.iconDis{
+  margin-top:14px;
+  margin-left: 250px;
+  width: 213px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #8D8180;
+}
